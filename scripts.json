@@ -1,12 +1,15 @@
-{
+x = {
   ["dog_crash"]= {
     ["name"]= "Dog Crasher",
     ["file"]= "dogcrash.lua",
-    ["description"]= "Crashes server with dog instances"
+    ["description"]= "Crashes server with dog instances",
+    ['notif'] = 'Crashing the server.'
   },
-  ["dog_name"] {
+  ["dog_name"]= {
     ["name"]= "Dog Coregui Remover",
     ["file"]= "dogcoreguiremover.lua",
-    ["description"]= "removes guis with the dog name"
+    ["description"]= "removes guis with the dog name",
+    ['notif'] = 'Changing your dog name.'
   }
 }
+return(x)
