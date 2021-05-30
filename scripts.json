@@ -10,6 +10,12 @@ x = {
     ["file"]= "dogcoreguiremover.lua",
     ["description"]= "removes guis with the dog name",
     ['notif'] = 'Changing your dog name.'
+  },
+  ["nil"]= {
+    ["name"]= "READ ME",
+    ["file"]= "nil.lua",
+    ["description"]= "Adding more soon :tm:. Expect updates. Made by Agent#9895",
+    ['notif'] = 'Whyd you click this lmfao'
   }
 }
 return(x)
