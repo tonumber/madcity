@@ -1,0 +1,12 @@
+{
+  'dog_crash': {
+    'name': 'Dog Crasher',
+    'file': 'dogcrash.lua',
+    'description': 'Crashes server with dog instances'
+  },
+  'dog_name': {
+    'name': 'Dog Coregui Remover',
+    'file': 'dogcoreguiremover.lua',
+    'description': 'removes guis with the dog name'
+  }
+}
